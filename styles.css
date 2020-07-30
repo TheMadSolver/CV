@@ -1,0 +1,62 @@
+body {
+  background-color: #393E46;
+  font-size: 60%;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+}
+
+img {
+
+  width: 95%;
+}
+
+p {
+  text-align: center;
+  color: #32e0c4;
+}
+
+h1 {
+  text-align: center;
+  color: #32e0c4;
+}
+
+
+
+h3 {
+  text-align: center;
+  color: #32e0c4;
+}
+
+
+ol {
+  text-align: center;
+  list-style-position: inside;
+/* need to figure out how to align the numbers and the text */
+}
+
+h4 {
+  text-align: center;
+  color: #32e0c4;
+}
+
+article {
+  text-align: center;
+  color: #32e0c4;
+  font: italic .8em cursive;
+}
+
+table {
+  color: #32e0c4;
+  margin-left: auto;
+ margin-right: auto;
+}
+
+p {
+  color: #32e0c4;
+}
