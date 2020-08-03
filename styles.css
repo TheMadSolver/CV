@@ -1,5 +1,12 @@
 body {
-  background-color: #393E46;
+
+  background-image: url("https://wonderfulengineering.com/wp-content/uploads/2014/04/code-wallpaper-8.jpg");
+  background-size: cover;
+  background-position: left;
+  padding-right: 500px;
+  background-origin: content-box;
+  background-repeat: no-repeat;
+
   font-size: 100%;
 }
 
@@ -12,22 +19,23 @@ hr {
 }
 
 img {
-  width: 95%;
+  width: 90%
 }
 
 p {
   text-align: center;
-  color: #32e0c4;
+  color: white;
+  width: 500px;
 }
 
 h1 {
-  text-align: center;
-  color: #32e0c4;
+  text-align: right;
+  color: white;
 }
 
 h3 {
   text-align: center;
-  color: #32e0c4;
+  color: white;
 }
 
 ol {
@@ -38,21 +46,66 @@ ol {
 
 h4 {
   text-align: center;
-  color: #32e0c4;
+  color: white;
 }
 
 article {
   text-align: center;
-  color: #32e0c4;
+  color: white;
   font: italic .8em cursive;
+  width: 500px;
 }
 
 table {
-  color: #32e0c4;
+  color: white;
   margin-left: auto;
   margin-right: auto;
 }
 
 p {
-  color: #32e0c4;
+  color: white;
+}
+
+a {
+  color: white;
+  font: italic small-caps bold 16px/2 cursive;
+}
+
+/*-----------------------------------classes--------------------------------*/
+
+/* .circular {
+  border-radius: 25%
+} */
+.programmer {
+  text-align: center;
+}
+
+.Heading {
+}
+
+.cloud{
+  width: 100px;
+  display:inline-block;
+}
+
+.Cyber {
+  align-items: center;
+  height: 75px;
+  width: 75px;
+}
+
+.mountain {
+  align-self: center;
+  height: 200px;
+  width: 200px;
+}
+
+.contact_me {
+  position: fixed;
+
+  bottom: 0;
+}
+
+.article {
+
 }
