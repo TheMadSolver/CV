@@ -1,9 +1,10 @@
 body {
 
   background-image: url("https://wonderfulengineering.com/wp-content/uploads/2014/04/code-wallpaper-8.jpg");
+  background-size: cover;
   background-color: black;
   background-position:  left;
-  padding-right: 500px;
+  padding-right: 650px;
   background-origin: content-box;
   background-repeat: no-repeat;
 
@@ -11,6 +12,7 @@ body {
 }
 
 hr {
+  align-items: flex-start;
   border-style: none;
   border-top-style: dotted;
   border-color: grey;
@@ -120,6 +122,11 @@ a {
 }
 
 .table {
+  text-align: center;
   margin-left: inherit;
   margin-right: auto;
+}
+
+.bottom-container {
+  width: 450px
 }
