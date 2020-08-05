@@ -127,6 +127,8 @@ a {
 .code_description {
   padding-left: 20%;
   padding-right: 10%;
+  margin: auto;
+  text-align: center;
 }
 
 .Education {
