@@ -110,13 +110,9 @@ a {
   bottom: 0;
 }
 
-.skills {
-  text-align: center;
-  max-width: 550px;
-}
-
 .skill-row {
   text-align: center;
+  max-width: 550px;
 
   /*  max-width: 400px;
   margin-right: 50px;*/
